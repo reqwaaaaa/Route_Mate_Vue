@@ -3,7 +3,7 @@
 ## 本地运行
 ```bash
 # 克隆项目
-git clone 
+git clone https://github.com/reqwaaaaa/Route_Mate_Vue.git
 
 # 进入项目目录
 cd RouteMate-Vue
