@@ -1,0 +1,23 @@
+<svg t="1630000000000" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1234" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
+    <path d="M512 64c-247.424 0-448 200.576-448 448s200.576 448 448 448 448-200.576 448-448S759.424 64 512 64z" fill="#409EFF" p-id="1235"></path>
+    <circle cx="256" cy="256" r="32" fill="#409EFF" p-id="1236"></circle>
+    <circle cx="512" cy="256" r="32" fill="#409EFF" p-id="1237"></circle>
+    <circle cx="768" cy="256" r="32" fill="#409EFF" p-id="1238"></circle>
+    <circle cx="128" cy="384" r="32" fill="#409EFF" p-id="1239"></circle>
+    <circle cx="384" cy="384" r="32" fill="#409EFF" p-id="1240"></circle>
+    <circle cx="640" cy="384" r="32" fill="#409EFF" p-id="1241"></circle>
+    <circle cx="896" cy="384" r="32" fill="#409EFF" p-id="1242"></circle>
+    <circle cx="256" cy="512" r="32" fill="#409EFF" p-id="1243"></circle>
+    <circle cx="512" cy="512" r="32" fill="#409EFF" p-id="1244"></circle>
+    <circle cx="768" cy="512" r="32" fill="#409EFF" p-id="1245"></circle>
+    <circle cx="384" cy="640" r="32" fill="#409EFF" p-id="1246"></circle>
+    <circle cx="640" cy="640" r="32" fill="#409EFF" p-id="1247"></circle>
+    <circle cx="128" cy="768" r="32" fill="#409EFF" p-id="1248"></circle>
+    <circle cx="256" cy="768" r="32" fill="#409EFF" p-id="1249"></circle>
+    <circle cx="384" cy="768" r="32" fill="#409EFF" p-id="1250"></circle>
+    <circle cx="512" cy="768" r="32" fill="#409EFF" p-id="1251"></circle>
+    <circle cx="640" cy="768" r="32" fill="#409EFF" p-id="1252"></circle>
+    <circle cx="768" cy="768" r="32" fill="#409EFF" p-id="1253"></circle>
+    <circle cx="896" cy="768" r="32" fill="#409EFF" p-id="1254"></circle>
+    <circle cx="896" cy="640" r="32" fill="#409EFF" p-id="1255"></circle>
+</svg>
